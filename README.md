@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Pravin.<br>
-        Currently working as a Web Developer.<br>
+        Currently working as a FullStack Software Engineer.<br>
         I love to find innovative solutions to complex problems.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/pravin90/">
